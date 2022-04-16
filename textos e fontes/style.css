@@ -1,10 +1,16 @@
-h1{
-  font-family: 'Geostar', cursive;
-}
-
 p{
-  font-family: 'Ruboto','Arial',sans-serif;
+  font-family: 'Montserrat','Arial',sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 2;
 }
+
+
+h1{
+  font-family: 'Geostar', cursive;
+  margin-top: 45px auto 200px auto;
+  width: 15%;
+  border: 2px solid;
+  padding: 10x 20px 20px 10px;
+}
+
